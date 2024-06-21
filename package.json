@@ -1,0 +1,13 @@
+{
+  "name": "vue3-source",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
